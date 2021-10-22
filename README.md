@@ -4,12 +4,17 @@ Eu sou Priscila do qaprisciladearaujo.
 
 Amo compartilhar conhecimento com as pessoas, quer aprender sobre qualidade de software? Me segue nas redes! 
 
-<!-- 
-![](https://img.shields.io/static/v1?label=Instagram&message=@qaprisciladearaujo&color=blueviolet&url=https://www.instagram.com/qaprisciladearaujo/&logo=Instagram)
+<a href="https://www.instagram.com/qaprisciladearaujo/"><img src="https://img.shields.io/static/v1?label=Instagram&message=@qaprisciladearaujo&color=blueviolet&logo=Instagram"></a>
 
-![](https://img.shields.io/static/v1?label=Youtube&message=qaprisciladearaujoo&color=blueviolet&url=https://www.youtube.com/channel/UCh4u3Hcdt23UpgAPvqrFzPg&logo=Youtube)
+<a href="https://www.tiktok.com/@qaprisciladearaujo"><img src="https://img.shields.io/static/v1?label=Instagram&message=@qaprisciladearaujo&color=blueviolet&logo=TikTok"></a>
 
-![](https://img.shields.io/static/v1?label=Instagram&message=paraujocaimi&color=blueviolet&url=https://paraujocaimi.medium.com/&logo=Medium) -->
+<a href="https://www.youtube.com/channel/UCh4u3Hcdt23UpgAPvqrFzPg"><img src="https://img.shields.io/static/v1?label=Youtube&message=QA Priscila de Araujo&color=blueviolet&ogo=youtube"></a>
+
+<a href="https://paraujocaimi.medium.com/"><img src="https://img.shields.io/static/v1?label=Instagram&message=paraujocaimi&color=blueviolet&logo=Medium"></a>
+
+[Instagram](https://www.instagram.com/qaprisciladearaujo/)
+[Youtube](https://www.youtube.com/channel/UCh4u3Hcdt23UpgAPvqrFzPg)
+[Medium](https://paraujocaimi.medium.com/)
 
 ## Quer conhecer mais o meu trabalho? 
 
@@ -28,7 +33,6 @@ Amo compartilhar conhecimento com as pessoas, quer aprender sobre qualidade de s
 
 
 ## Skills
------------------
 
 - Ferramentas 
 
