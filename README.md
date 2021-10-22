@@ -2,7 +2,7 @@
 
 Eu sou Priscila do qaprisciladearaujo.
 
-Amo compartilhar conhecimento com as pessoas, quer aprender sobre qualidade de software? Me segue nas redes! 
+Amo compartilhar conhecimento com as pessoas. Quer aprender sobre qualidade de software? Me segue nas redes! 
 
 <a href="https://www.instagram.com/qaprisciladearaujo/"><img src="https://img.shields.io/static/v1?label=Instagram&message=@qaprisciladearaujo&color=blueviolet&logo=Instagram"></a>
 
@@ -12,9 +12,6 @@ Amo compartilhar conhecimento com as pessoas, quer aprender sobre qualidade de s
 
 <a href="https://paraujocaimi.medium.com/"><img src="https://img.shields.io/static/v1?label=Instagram&message=paraujocaimi&color=blueviolet&logo=Medium"></a>
 
-[Instagram](https://www.instagram.com/qaprisciladearaujo/)
-[Youtube](https://www.youtube.com/channel/UCh4u3Hcdt23UpgAPvqrFzPg)
-[Medium](https://paraujocaimi.medium.com/)
 
 ## Quer conhecer mais o meu trabalho? 
 
